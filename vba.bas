@@ -193,7 +193,7 @@ Range("c114") = "2. Liabilities for the VAT and other taxes"
 Range("c115") = "3. Liabilities for company income tax"
 Range("c116") = "VI. Liabilities for permanent assets held for sale"
 Range("c117") = "VII Deferred expenses (short-term)"
-Range("c118") = "Loss above equity (0415+0429+0430+0431-0459) >=0 = (0407+0412-0402-0403-0404-0405-0406-0408-0411) >= 0"
+Range("c118") = "Loss above equity (0415+0429+0430+0431-0059) >=0 = (0407+0412-0402-0403-0404-0405-0406-0408-0411) >= 0"
 Range("c119") = "Total equity and liabilities (0401+0415+0429+0430+0431-0455) >= 0"
 Range("c120") = "Off-balance sheet liabilities"
 
